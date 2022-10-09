@@ -3,7 +3,7 @@
 First Flutter test project.
 
 
-## Getting Started
+## What is
 
 Its a very simple counter app maded in a RocketSeat event.
 
